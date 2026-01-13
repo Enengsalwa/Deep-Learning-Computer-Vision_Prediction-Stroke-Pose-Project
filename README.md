@@ -1,7 +1,7 @@
-**Kelompok 4**
-Eneng Salwa Khoerunisa
-Revan Fakthurezi Desviansyah
-Fajar Syuhada
+****Kelompok 4***
+Eneng Salwa Khoerunisa,
+Revan Fakthurezi Desviansyah,
+Fajar Syuhada,
 Donie Makapeli
 
 **Mata Kuliah : Computer Vision & Deep Learning
